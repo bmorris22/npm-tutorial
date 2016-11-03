@@ -1,0 +1,14 @@
+{
+  "name": "@bmorris23/javascript",
+  "version": "1.0.0",
+  "description": "npm tutorial project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "brendan morris",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
